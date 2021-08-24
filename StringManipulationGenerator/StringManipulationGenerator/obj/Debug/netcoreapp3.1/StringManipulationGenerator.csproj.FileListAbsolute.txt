@@ -1,0 +1,16 @@
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.exe
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.deps.json
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.runtimeconfig.json
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.runtimeconfig.dev.json
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.dll
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\StringManipulationGenerator.pdb
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\bin\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.AssemblyInfo.cs
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.csproj.CopyComplete
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.dll
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.pdb
+C:\Users\black\source\repos\StringManipulationGenerator\StringManipulationGenerator\obj\Debug\netcoreapp3.1\StringManipulationGenerator.genruntimeconfig.cache
